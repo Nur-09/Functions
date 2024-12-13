@@ -5,6 +5,7 @@ function getPrice(num, num1) {
     return result
 }
 console.log(getPrice(1000, 50));
+console.log(getPrice(4000, 25));
 
 
 //  2
